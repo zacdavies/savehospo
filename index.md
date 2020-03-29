@@ -1,8 +1,8 @@
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# This is header 1
+## I've added header 2 here
+### Blabla
 
 - Bulleted
 - List
